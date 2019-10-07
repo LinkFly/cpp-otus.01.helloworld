@@ -8,6 +8,6 @@ int main()
 {
 	cout
 		<< "build " << version() << endl
-		<< "Hello, World!";
+		<< "Hello, World!" << endl;
     return 0;
 }
